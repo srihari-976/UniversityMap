@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/violet"
+    tools:context=".SettingsFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        tools:ignore="UselessParent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <TextView
+                android:id="@+id/settingsTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/settings"
+                android:textSize="34sp"
+                android:textStyle="bold"
+                android:layout_marginTop="12dp"/>
+
+
+            <TextView
+                android:id="@+id/notificationSettingsLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/notification_settings"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:layout_marginTop="32dp" />
+
+
+            <LinearLayout
+                android:id="@+id/notificationSettings"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="12dp">
+
+                <CheckBox
+                    android:id="@+id/campusEvents"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="16sp"
+                    android:text="@string/campus_events"
+                    android:checked="true"/>
+
+                <CheckBox
+                    android:id="@+id/buildingUpdates"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="16sp"
+                    android:text="@string/building_updates"
+                    android:checked="true"/>
+
+                <CheckBox
+                    android:id="@+id/emergencyAlerts"
+                    android:layout_width="wrap_content"
+                    android:textSize="16sp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/emergency_alerts"/>
+            </LinearLayout>
+
+
+            <TextView
+                android:id="@+id/privacySettingsLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/privacy_settings"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:layout_marginTop="32dp" />
+
+
+            <Switch
+                android:id="@+id/locationSharing"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:text="@string/location_sharing"
+                android:checked="false"
+                android:textSize="16sp"
+                android:layout_marginTop="12dp"
+                android:thumbTint="@color/switch_thumb_checked_color"
+                android:trackTint="@color/switch_track_checked_color"
+                tools:ignore="UseSwitchCompatOrMaterialXml" />
+
+
+            <Switch
+                android:id="@+id/dataUsage"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:text="@string/data_usage"
+                android:checked="true"
+                android:textSize="16sp"
+                android:thumbTint="@color/switch_thumb_checked_color"
+                android:trackTint="@color/switch_track_checked_color"
+                android:layout_marginTop="8dp"
+                tools:ignore="UseSwitchCompatOrMaterialXml" />
+
+
+            <TextView
+                android:id="@+id/generalSettingsLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/general_settings"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:layout_marginTop="32dp"/>
+
+
+            <TextView
+                android:id="@+id/appVersion"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:text="@string/app_version_1_0_0"
+                android:layout_marginTop="12dp" />
+
+            <Button
+                android:id="@+id/clearCacheButton"
+                android:layout_width="wrap_content"
+                android:layout_height="55dp"
+                android:textSize="16sp"
+                android:backgroundTint="@color/switch_thumb_checked_color"
+                android:text="@string/clear_app_cache"
+                android:layout_marginTop="12dp"/>
+
+
+            <TextView
+                android:id="@+id/supportLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/support"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:layout_marginTop="32dp"/>
+
+            <TextView
+                android:id="@+id/faq"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:text="@string/frequently_asked_questions_faq"
+                android:layout_marginTop="12dp"/>
+
+            <TextView
+                android:id="@+id/contactSupport"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:text="@string/contact_support"
+                android:layout_marginTop="12dp"/>
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>
