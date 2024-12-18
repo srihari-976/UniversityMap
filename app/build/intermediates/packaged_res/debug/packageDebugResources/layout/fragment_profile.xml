@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/profile"
+    tools:context=".ProfileFragment">
+
+    <!-- Profile Card -->
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="16dp"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="4dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="16dp"
+            android:gravity="center_horizontal">
+
+            <!-- Profile Picture -->
+            <ImageView
+                android:id="@+id/app_logo"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:src="@drawable/logo"
+                android:contentDescription="@string/profile_picture"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:elevation="8dp"
+                android:layout_marginBottom="16dp" />
+
+            <!-- Name -->
+            <EditText
+                android:id="@+id/etName"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:hint="Name"
+                android:background="@drawable/edit_text_background"
+                android:drawablePadding="8dp"
+                android:padding="12dp"
+                android:textSize="16sp"
+                android:textColor="@color/black"
+                android:textColorHint="@color/green" />
+
+            <!-- Email -->
+            <EditText
+                android:id="@+id/etEmail"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:hint="Email"
+                android:background="@drawable/edit_text_background"
+                android:drawablePadding="8dp"
+                android:padding="12dp"
+                android:layout_marginTop="8dp"
+                android:focusable="false"
+                android:clickable="false"
+                android:textSize="16sp"
+                android:textColor="@color/black"
+                android:textColorHint="@color/green" />
+
+            <!-- Phone -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginTop="8dp">
+
+                <EditText
+                    android:id="@+id/etPhone"
+                    android:layout_width="0dp"
+                    android:layout_height="55dp"
+                    android:layout_weight="1"
+                    android:hint="Phone"
+                    android:background="@drawable/edit_text_background"
+                    android:padding="12dp"
+                    android:textSize="16sp"
+                    android:textColorHint="@color/green" />
+
+                <ImageButton
+                    android:id="@+id/imgEditPhone"
+                    android:layout_width="50dp"
+                    android:layout_height="55dp"
+                    android:src="@drawable/ic_edit_pen"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:contentDescription="@string/edit_phone_number" />
+            </LinearLayout>
+
+            <!-- Address -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginTop="8dp">
+
+                <EditText
+                    android:id="@+id/etAddress"
+                    android:layout_width="0dp"
+                    android:layout_height="55dp"
+                    android:layout_weight="1"
+                    android:hint="Address"
+                    android:background="@drawable/edit_text_background"
+                    android:padding="12dp"
+                    android:textSize="16sp"
+                    android:textColorHint="@color/green" />
+
+                <ImageButton
+                    android:id="@+id/imgEditAddress"
+                    android:layout_width="50dp"
+                    android:layout_height="55dp"
+                    android:src="@drawable/ic_edit_pen"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:contentDescription="@string/edit_address" />
+            </LinearLayout>
+
+            <!-- Bio -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginTop="8dp">
+
+                <EditText
+                    android:id="@+id/etBio"
+                    android:layout_width="0dp"
+                    android:layout_height="85dp"
+                    android:layout_weight="1"
+                    android:hint="Bio"
+                    android:background="@drawable/edit_text_background"
+                    android:padding="12dp"
+                    android:textSize="16sp"
+                    android:textColorHint="@color/green" />
+
+                <ImageButton
+                    android:id="@+id/imgEditBio"
+                    android:layout_width="50dp"
+                    android:layout_height="85dp"
+                    android:src="@drawable/ic_edit_pen"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:contentDescription="@string/edit_bio" />
+            </LinearLayout>
+
+            <!-- Buttons -->
+            <Button
+                android:id="@+id/btnSave"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:text="@string/save"
+                android:textColor="@color/white"
+                android:backgroundTint="@color/material_dynamic_primary0"
+                android:layout_marginTop="16dp" />
+
+            <Button
+                android:id="@+id/btnSignOut"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:text="@string/sign_out1"
+                android:textColor="@color/white"
+                android:backgroundTint="@color/design_default_color_error"
+                android:layout_marginTop="8dp" />
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

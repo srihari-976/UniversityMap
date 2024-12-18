@@ -1,0 +1,482 @@
+[
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_profile_selected_icon.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\profile_selected_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xxhdpi_circles.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xxhdpi\\circles.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_sample_image3.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\sample_image3.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_profile_icon.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\profile_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xxhdpi_google.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-ldpi_facebook.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-ldpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xhdpi_girl.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xhdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xxxhdpi_girl.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xxxhdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xxxhdpi_bottom_white.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xxxhdpi\\bottom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-mdpi_google.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-mdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-ldpi_girl.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-ldpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-hdpi_settings.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xxxhdpi_google.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xxxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-ldpi_google.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-ldpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\layout_activity_login_page.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\layout\\activity_login_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xxhdpi_wallet.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xxhdpi\\wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xhdpi_profile.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_round_back_settings_100.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\round_back_settings_100.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_sample_image.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\sample_image.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xxhdpi_settings.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_girl.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xhdpi_google.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-ldpi_notification.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-ldpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_map_selected_icon.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\map_selected_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_settings_selected_icon.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\settings_selected_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-mdpi_wallet.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-mdpi\\wallet.png"
+    },
+    {
+        "merged": "com.example.universitymap.app-debug-5:/layout_fragment_home.xml.flat",
+        "source": "com.example.universitymap.app-main-7:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_sample_image5.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\sample_image5.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xxhdpi_bottom_white.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xxhdpi\\bottom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_social_btn_background.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\social_btn_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-mdpi_bottom_white.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-mdpi\\bottom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-hdpi_top_backgroundto.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-hdpi\\top_backgroundto.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-ldpi_bottom_white.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-ldpi\\bottom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xxxhdpi_circles.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xxxhdpi\\circles.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xhdpi_wallet.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xhdpi\\wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-ldpi_settings.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-ldpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_sample_image2.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\sample_image2.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\layout_activity_signin_page.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\layout\\activity_signin_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-ldpi_wallet.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-ldpi\\wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xhdpi_notification.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xhdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xhdpi_facebook.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_round_back_map_100.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\round_back_map_100.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-hdpi_profile.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-hdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-mdpi_girl.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-mdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_settings_icon.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\settings_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xxxhdpi_top_backgroundto.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xxxhdpi\\top_backgroundto.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_girlimg.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\girlimg.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-hdpi_girl.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-hdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-hdpi_circles.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-hdpi\\circles.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xhdpi_top_backgroundto.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xhdpi\\top_backgroundto.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xhdpi_settings.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xhdpi_bottom_white.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xhdpi\\bottom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-mdpi_notification.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-mdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-hdpi_google.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-hdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-mdpi_top_backgroundto.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-mdpi\\top_backgroundto.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-hdpi_bottom_white.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-hdpi\\bottom_white.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-mdpi_circles.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-mdpi\\circles.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_background_button_intro.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\background_button_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\layout_fragment_map.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_home_icon.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\home_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-mdpi_profile.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-mdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_round_back_profile_100.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\round_back_profile_100.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-mdpi_settings.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-hdpi_wallet.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-hdpi\\wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_sample_image6.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\sample_image6.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xxhdpi_notification.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xxhdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xxhdpi_girl.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xxhdpi\\girl.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_map_icon.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\map_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-hdpi_facebook.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-hdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_home_selected_icon.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\home_selected_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xxxhdpi_wallet.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xxxhdpi\\wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xxxhdpi_notification.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xxxhdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_ic_edit_pen.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\ic_edit_pen.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xxxhdpi_profile.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xxxhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-ldpi_profile.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-ldpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xxxhdpi_settings.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xxxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_round_back_home_100.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\round_back_home_100.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_top_backgroundto.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\top_backgroundto.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_edit_text_background.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\edit_text_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-ldpi_circles.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-ldpi\\circles.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xxxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xxxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xhdpi_circles.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xhdpi\\circles.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-hdpi_notification.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-ldpi_top_backgroundto.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-ldpi\\top_backgroundto.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xxhdpi_profile.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xxhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-xxhdpi_top_backgroundto.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-xxhdpi\\top_backgroundto.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_sample_image1.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\sample_image1.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable-mdpi_facebook.png.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable-mdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-debug-5:\\drawable_profile.xml.flat",
+        "source": "C:\\Users\\sriha\\.gradle\\daemon\\8.7\\com.example.universitymap.app-main-7:\\drawable\\profile.xml"
+    }
+]

@@ -1,0 +1,3 @@
+com.example.universitymap.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

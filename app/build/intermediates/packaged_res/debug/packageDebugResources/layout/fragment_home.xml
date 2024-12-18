@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue"
+    android:orientation="vertical"
+    tools:context=".HomeFragment">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <TextView
+            android:id="@+id/toolbar_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:text="@string/home"
+            android:layout_marginTop="30dp"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            tools:ignore="RtlHardcoded" />
+
+<!--        <FrameLayout-->
+<!--            android:layout_width="40dp"-->
+<!--            android:layout_height="40dp"-->
+<!--            android:layout_gravity="end"-->
+<!--            android:layout_marginTop="8dp"-->
+<!--            android:layout_marginEnd="16dp"-->
+<!--            android:background="@drawable/profile"-->
+<!--            android:clipChildren="true"-->
+<!--            android:clipToPadding="true">-->
+
+<!--            <ImageView-->
+<!--                android:id="@+id/profile_image"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="match_parent"-->
+<!--                android:src="@drawable/girlimg"-->
+<!--                android:scaleType="centerCrop"-->
+<!--                android:contentDescription="@string/profileImage" />-->
+<!--        </FrameLayout>-->
+
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <!-- University Updates Section -->
+    <TextView
+        android:id="@+id/university_updates"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginTop="16dp"
+        android:paddingTop="8dp"
+        android:paddingStart="10dp"
+        android:textColor="@color/red"
+        android:text="@string/university_updates"
+        android:textAlignment="viewStart"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        tools:ignore="RtlSymmetry" />
+
+    <!-- Example of Update Card 1 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="8dp"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"> <!-- Added padding for better spacing -->
+
+        <ImageView
+            android:id="@+id/update_image"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/sample_image"
+            android:layout_marginEnd="16dp"
+            android:contentDescription="@string/update_image_desc1" /> <!-- Added content description for accessibility -->
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/update_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/new_research_hub"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/update_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/the_university_opens_a_state_of_the_art_research_facility_to_suppport_innovation"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- Example of Update Card 2 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="8dp"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp">
+
+        <ImageView
+            android:id="@+id/update_image2"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/sample_image1"
+            android:layout_marginEnd="16dp"
+            android:contentDescription="@string/update_image_desc2" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/update_title2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/guest_lecture_on_ai"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/update_description2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/join_us_for_an_insightful_lecture_on_the_future_of_ai_and_machine_learning"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="8dp"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp">
+
+        <ImageView
+            android:id="@+id/update_image3"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/sample_image2"
+            android:layout_marginEnd="16dp"
+            android:contentDescription="@string/update_image_desc3" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/update_title3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/art_exhibition"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/update_description3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/visit_the_universitys_art_exhibition_showcasing_work_from_talented_students"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="8dp"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp">
+
+        <ImageView
+            android:id="@+id/update_image4"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/sample_image6"
+            android:layout_marginEnd="16dp"
+            android:contentDescription="@string/update_image_desc4" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/update_title4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/guest_lecture"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/update_description4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/attend_a_guest_lecture_on_innovative_technologies_by_a_leading_expert_in_fieald"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/red"
+        android:text="@string/ready_to_navigate"
+        android:paddingStart="10dp"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:layout_marginTop="15dp" />
+
+    <com.google.android.gms.maps.MapView
+        android:id="@+id/mapView"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginTop="18dp"
+        android:contentDescription="@string/map_view_for_navigating_and_displaying_locations" />
+
+</LinearLayout>

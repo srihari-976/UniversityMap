@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">193056854477-8qhr1tvg724drit07sk05l0dqkuskuib.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://mapmate-4559d-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">193056854477</string>
+    <string name="google_api_key" translatable="false">AIzaSyB57BxcDEEifqDX8bOPhEwiDNR5Q0m4Md0</string>
+    <string name="google_app_id" translatable="false">1:193056854477:android:c27e5306f943bfbb793484</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB57BxcDEEifqDX8bOPhEwiDNR5Q0m4Md0</string>
+    <string name="google_storage_bucket" translatable="false">mapmate-4559d.appspot.com</string>
+    <string name="project_id" translatable="false">mapmate-4559d</string>
+</resources>

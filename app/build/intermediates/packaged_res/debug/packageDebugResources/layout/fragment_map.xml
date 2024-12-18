@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/yellow"
+    tools:context=".MapFragment">
+
+<!--    <androidx.fragment.app.FragmentContainerView-->
+<!--        android:id="@+id/map"-->
+<!--        android:name="com.google.android.gms.maps.SupportMapFragment"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent" />-->
+
+    <com.google.android.gms.maps.MapView
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="60dp"
+        android:contentDescription="@string/map_view_for_navigating_and_displaying_locations" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:paddingTop="5dp"
+        android:textStyle="bold"
+        android:text="@string/map1" />
+
+    <TextView
+        android:id="@+id/textInfo"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"
+        android:text="@string/where_am_i" />
+
+</FrameLayout>
