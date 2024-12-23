@@ -12,7 +12,7 @@ UniversityMap is an Android application built in Java to help users navigate eas
 ## APK Download
 
 You can download the APK file for this project from the following link:  
-[Download UniversityMap APK](https://github.com/srihari-976/UniversityMap/raw/main/UniversityMap.apk)
+[Download UniversityMap APK](https://github.com/srihari-976/UniversityMap/blob/main/app/build/outputs/apk/androidTest/debug/MapMate.apk)
 
 ## Accessing Secrets
 
@@ -50,13 +50,13 @@ public class MainActivity extends AppCompatActivity {
 1. **Add Secrets**:  
    - Navigate to your repository on GitHub.  
    - Go to **Settings** > **Secrets and variables** > **Codespaces**.  
-   - Click **New secret** and add the secret with the name `UNIVERSITY_COORDINATES` and the value of your university's coordinates.
+   - Click **New secret** and add the secret with the name `CO_ORDINATES__OF__UNIVERSITY__FOR__MAP__FRAGMENT` and the value of your university's coordinates.
 
 2. **Access Secrets in Codespaces**:  
    - Open a Codespace for your repository.  
    - The secret will be available as an environment variable. You can use the following command to verify:  
      ```bash
-     echo $UNIVERSITY_COORDINATES
+     echo $CO_ORDINATES__OF__UNIVERSITY__FOR__MAP__FRAGMENT
      ```
 
 3. **Integrate Secrets in Your Code**:  
@@ -74,7 +74,3 @@ public class MainActivity extends AppCompatActivity {
 ## Contributions
 
 Feel free to fork the repository and make contributions. Pull requests are welcome!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
